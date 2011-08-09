@@ -1,6 +1,9 @@
 # sfDoctrineRestGeneratorPlugin
 
+###This is a fork from xavier Repo : https://github.com/xavierlacot/sfDoctrineRestGeneratorPlugin
+
 ## Introduction
+
 
 This plugin permits to generate REST modules bound to Doctrine models. It
 allows to easily create REST webservices, and provides an extensible framework
